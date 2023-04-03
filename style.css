@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #ff6c24;
+    height: 60px;
+    text-align: center;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+.all{
+    width: 1000px;
+    margin: auto;
+}
+
+.logo_tudogostoso{
+    height: 40px;
+    margin: auto;
+    padding: 10px;
+}
+
+.hero_bolo{
+    height: 500px;
+    background-image: url(./arquivos_projeto_pagina-receitas/images/hero_bolo.jpg);
+    background-size: cover;
+}
+
+#h1_1{
+    color: #f86318;
+    font-size: 45px;
+    margin: 20px;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+h2{
+    color: #f86318;
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: 260px;
+    margin-bottom: 25px;
+}
+
+.ingredientes{
+    font-weight: 700;
+    text-align: justify;
+    list-style: circle;
+}
+
+li{
+    margin-left: 280px;
+    margin-top: 10px;
+
+}
+
+#button{
+    text-align: center;
+    background-color: #f86318;
+    border-radius: 12px;
+    width: 200px;
+    height: 40px;
+    margin-left: 260px;
+    margin-top: 30px;
+    cursor: url(./arquivos_projeto_pagina-receitas/images/cursor_ingredientes.png),auto;
+}
+
+#inside_button{
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+#instrucoes_adicionais{
+    width: 500px;
+    text-align: justify;
+    margin-top: 25px;
+    margin-left: 260px;
+    margin-bottom: 25px;
+    margin-left: 100;
+}
+
+footer{
+    background-color: #ff6c24;
+    height: 60px;
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+    font-weight: 700;
+}
+
+#email_tudo_gostoso{
+    padding: 10px;
+}
+
+
+
+
+
